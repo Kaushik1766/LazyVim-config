@@ -1,0 +1,12 @@
+{
+  "name": "my-nvim-snippets",
+  "version": "0.1.0",
+  "contributes": {
+    "snippets": [
+      {
+        "language": "cpp",
+        "path": "./snippets/cpp.json"
+      }
+    ]
+  }
+}
